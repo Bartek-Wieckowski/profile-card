@@ -2,10 +2,17 @@ body{
     background-color: #2C2141;
     display: flex;
     justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 .main{
     background-color: #F8F8F8;
     width: 624px;
     min-height: 320px;
     border-radius: 16px;
+}
+.article__image{
+width: 148px;
+height: 148px;
+
 }
