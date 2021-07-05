@@ -16,6 +16,7 @@ I tried to practice and consolidate knowledge in it.
 The effect you see for yourself 💪
 
 >In this project I tried to do:
+- Basic card component
 - HTML BEM
 - CSS 
 
