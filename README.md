@@ -1,6 +1,6 @@
 
 # GH Pages: https://bartek-wieckowski.github.io/profile-card/
-# One of the FIRST projects
+
 
 ![screenshots](/img/screenReadme.png)
 
